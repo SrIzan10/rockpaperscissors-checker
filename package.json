@@ -1,0 +1,22 @@
+{
+  "name": "rockpaperscissors-checker",
+  "version": "1.0.0",
+  "description": "check for ties and wins on rockpaperscissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrIzan10/rockpaperscissors-checker.git"
+  },
+  "author": "Sr Izan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrIzan10/rockpaperscissors-checker/issues"
+  },
+  "homepage": "https://github.com/SrIzan10/rockpaperscissors-checker#readme",
+  "devDependencies": {
+    "typedoc": "^0.23.16"
+  }
+}
