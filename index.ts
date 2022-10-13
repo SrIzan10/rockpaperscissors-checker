@@ -1,5 +1,11 @@
 /**
  * @async
+ * @example
+ * // should return player1 (the winner)
+ * rockpaperscissors(2, 1)
+ * @example
+ * // should return tie (it's a tie)
+ * rockpaperscissors(1, 1)
  * @description Main function, you need to pass 2 numbers.
  * @param {number} player1 1 for rock, 2 for paper, 3 for scissors
  * @param {number} player2 1 for rock, 2 for paper, 3 for scissors
