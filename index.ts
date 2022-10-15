@@ -1,5 +1,4 @@
 /**
- * @async
  * @example
  * // should return player1 (the winner)
  * rockpaperscissors(2, 1)
