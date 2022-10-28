@@ -1,8 +1,9 @@
 {
   "name": "rockpaperscissors-checker",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "check for ties and wins on rockpaperscissors",
-  "main": "index.js",
+  "type": "module",
+  "main": "./index.js",
   "scripts": {
     "test": "node ."
   },
